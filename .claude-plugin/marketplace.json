@@ -1,0 +1,13 @@
+{
+  "name": "canon",
+  "owner": {
+    "name": "Dylan Stanfield"
+  },
+  "plugins": [
+    {
+      "name": "canon",
+      "source": ".",
+      "description": "Structured requirements for AI-native development"
+    }
+  ]
+}
