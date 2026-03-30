@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "canon",
-      "source": ".",
+      "source": "./",
       "description": "Structured requirements for AI-native development"
     }
   ]
