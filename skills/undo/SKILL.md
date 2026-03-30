@@ -1,7 +1,7 @@
 ---
 name: undo
 description: Undo the last /canon generate — removes the most recent snapshot, change file, and journal entry.
-user_invocable: true
+user-invocable: true
 ---
 
 # /canon undo

@@ -1,7 +1,7 @@
 ---
 name: check
 description: Validate the integrity of Canon's snapshot chain, journal, and requirement files.
-user_invocable: true
+user-invocable: true
 ---
 
 # /canon check

@@ -1,7 +1,7 @@
 ---
 name: init
 description: Bootstrap Canon requirements from an existing codebase. Use /canon init to scaffold the hierarchy, or /canon init <context> to bootstrap a specific context.
-user_invocable: true
+user-invocable: true
 ---
 
 # /canon init

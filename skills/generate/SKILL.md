@@ -1,7 +1,7 @@
 ---
 name: generate
 description: Snapshot current requirements and produce a structured change file (the task brief). Run this after editing requirement files.
-user_invocable: true
+user-invocable: true
 ---
 
 # /canon generate

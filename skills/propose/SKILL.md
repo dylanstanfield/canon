@@ -1,7 +1,7 @@
 ---
 name: propose
 description: Draft a requirements change from a natural language description. AI reads current requirements and code, then drafts specific markdown changes for the user to review.
-user_invocable: true
+user-invocable: true
 ---
 
 # /canon propose

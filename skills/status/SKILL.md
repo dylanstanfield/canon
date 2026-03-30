@@ -1,7 +1,7 @@
 ---
 name: status
 description: Show the current state of Canon requirements — latest snapshot, pending changes, requirement counts.
-user_invocable: true
+user-invocable: true
 ---
 
 # /canon status

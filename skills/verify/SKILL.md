@@ -1,7 +1,7 @@
 ---
 name: verify
 description: Check if the codebase matches the current requirements. Optionally scope to a specific context with /canon verify auth/login.
-user_invocable: true
+user-invocable: true
 ---
 
 # /canon verify
